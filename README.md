@@ -5,7 +5,7 @@
 ```rust
 From: 03 July 2024 - To: 03 July 2024
 
-Total Time: 1 hr 59 mins
+Total Time: 2 hrs 3 mins
 
 Dart    1 hr 52 mins    ██████████████████████▓░░   90.88 %
 YAML    7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %

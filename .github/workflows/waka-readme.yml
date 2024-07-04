@@ -20,7 +20,7 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           ### content
           SHOW_TITLE: true # optional
-          BLOCKS: -> # optional
+          BLOCKS: ░▒▓█ # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
@@ -28,7 +28,6 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional

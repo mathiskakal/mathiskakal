@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 July 2024 - To: 17 July 2024
+From: 03 July 2024 - To: 18 July 2024
 
-Total Time: 32 hrs 1 min
+Total Time: 34 hrs 44 mins
 
-Dart    31 hrs 18 mins  ████████████████████████▒   97.78 %
-YAML    33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Other   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-JSON    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Dart    33 hrs 58 mins  ████████████████████████▒   97.78 %
+YAML    37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Other   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+JSON    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->

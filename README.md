@@ -3,18 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 July 2024 - To: 07 December 2025
+From: 03 July 2024 - To: 08 December 2025
 
-Total Time: 321 hrs 6 mins
+Total Time: 321 hrs 29 mins
 
-Dart         79 hrs 52 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.88 %
-TypeScript   72 hrs 31 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
-Markdown     48 hrs 36 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
-V            46 hrs 56 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-C++          29 hrs 28 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Dart         79 hrs 52 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
+TypeScript   72 hrs 31 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
+Markdown     48 hrs 36 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
+V            46 hrs 56 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+C++          29 hrs 28 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
 JSON         6 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 JavaScript   6 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Other        5 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Other        6 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 CSS          4 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 CSV          3 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```

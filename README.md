@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 July 2024 - To: 10 December 2025
+From: 03 July 2024 - To: 11 December 2025
 
-Total Time: 321 hrs 29 mins
+Total Time: 321 hrs 37 mins
 
-Dart         79 hrs 52 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
-TypeScript   72 hrs 31 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
-Markdown     48 hrs 36 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
-V            46 hrs 56 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+Dart         79 hrs 52 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.84 %
+TypeScript   72 hrs 31 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
+Markdown     48 hrs 43 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
+V            46 hrs 56 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
 C++          29 hrs 28 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
 JSON         6 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 JavaScript   6 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %

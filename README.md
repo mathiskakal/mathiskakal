@@ -3,16 +3,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 July 2024 - To: 06 September 2026
+From: 03 July 2024 - To: 07 September 2026
 
-Total Time: 337 hrs 40 mins
+Total Time: 337 hrs 49 mins
 
-Dart         79 hrs 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.69 %
-TypeScript   73 hrs 10 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
-Markdown     52 hrs 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
-V            49 hrs 17 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+Dart         79 hrs 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.68 %
+TypeScript   73 hrs 10 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
+Markdown     52 hrs 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+V            49 hrs 17 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
 C++          29 hrs 42 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-JSON         7 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+JSON         7 hrs 19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 Other        7 hrs 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 HTML         6 hrs 35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 JavaScript   6 hrs 34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
